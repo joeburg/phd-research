@@ -1,0 +1,10 @@
+# Atom type to element name and charge 
+1	H	0.242
+2	H	0.124
+3	H	0.043
+4	C	-0.040
+5	C	-0.212
+6	C	-0.094
+7	C	0.301
+8	N	-0.091
+9	S	-0.618

@@ -1,0 +1,204 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      7524,        195]
+NotebookOptionsPosition[      7118,        176]
+NotebookOutlinePosition[      7477,        192]
+CellTagsIndexPosition[      7434,        189]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"ClearAll", "[", "\"\<Global`*\>\"", "]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"SetDirectory", "[", "\"\</Users/joeburg/Desktop\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"data", " ", "=", " ", 
+   RowBox[{"Import", "[", 
+    RowBox[{"\"\<OCSEt_140000.txt\>\"", ",", "\"\<Table\>\""}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"R", " ", "=", " ", 
+   RowBox[{"DelaunayMesh", "[", "data", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"HighlightMesh", "[", 
+  RowBox[{"R", " ", ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"Style", "[", 
+      RowBox[{"0", ",", 
+       RowBox[{"Directive", "[", 
+        RowBox[{
+         RowBox[{"PointSize", "[", "Medium", "]"}], ",", "Black"}], "]"}]}], 
+      "]"}], ",", 
+     RowBox[{"Style", "[", 
+      RowBox[{"2", ",", 
+       RowBox[{"Opacity", "[", "0.1", "]"}]}], "]"}]}], "}"}]}], 
+  "]"}], "\[IndentingNewLine]"}], "Input",
+ CellChangeTimes->{{3.6298630396294117`*^9, 3.629863069507452*^9}, {
+   3.629863308028544*^9, 3.629863308870756*^9}, {3.62986336506695*^9, 
+   3.629863368239421*^9}, {3.629863509296895*^9, 3.6298635141353273`*^9}, {
+   3.629863554423156*^9, 3.629863623635152*^9}, {3.629863691408168*^9, 
+   3.62986377052037*^9}, {3.629863864125134*^9, 3.62986390604251*^9}, {
+   3.629863940480957*^9, 3.629863957513896*^9}, {3.629864138725762*^9, 
+   3.629864138982274*^9}, {3.6298643649709*^9, 3.62986440973446*^9}, {
+   3.629864441157898*^9, 3.629864480184416*^9}, {3.629864521508205*^9, 
+   3.62986454021707*^9}, {3.629864638804956*^9, 3.629864676470747*^9}, {
+   3.629864713552702*^9, 3.6298647386980877`*^9}, 3.629864924306735*^9, {
+   3.629865018191555*^9, 3.629865024210473*^9}, {3.6298652562159233`*^9, 
+   3.6298652668697653`*^9}, {3.630079563816367*^9, 3.6300795759320593`*^9}}],
+
+Cell[BoxData[{
+ RowBox[{"Needs", "[", "\"\<ComputationalGeometry`\>\"", 
+  "]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"R2", "=", 
+   RowBox[{"DelaunayTriangulation", "[", "data", "]"}]}], 
+  ";"}], "\[IndentingNewLine]"}], "Input",
+ CellChangeTimes->{{3.630081741539167*^9, 3.6300817904511023`*^9}, {
+  3.630082140293742*^9, 3.630082181380938*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"data2", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"\"\<fcc32.txt\>\"", ",", "\"\<Table\>\""}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"R3", "=", 
+   RowBox[{"DelaunayMesh", "[", "data2", "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"HighlightMesh", "[", 
+  RowBox[{"R3", " ", ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"Style", "[", 
+      RowBox[{"0", ",", 
+       RowBox[{"Directive", "[", 
+        RowBox[{
+         RowBox[{"PointSize", "[", "Medium", "]"}], ",", "Black"}], "]"}]}], 
+      "]"}], ",", 
+     RowBox[{"Style", "[", 
+      RowBox[{"2", ",", 
+       RowBox[{"Opacity", "[", "0.1", "]"}]}], "]"}]}], "}"}]}], 
+  "]"}]}], "Input",
+ CellChangeTimes->{{3.630082026952825*^9, 3.630082085189028*^9}}],
+
+Cell[BoxData[
+ Graphics3DBox[
+  TagBox[
+   DynamicModuleBox[{Typeset`mesh = HoldComplete[
+     MeshRegion[CompressedData["
+1:eJxTTMoPSmViYGBQAGJmBtxA8fD81/aH2B1gNLo4IT66OKq8uAO6OnRxmPrI
+S9s/rL+oiGE+dnFxItURtg+7v8Qx9KGqR/eXOIb9MD66PvRwwuUOYv2DLo7u
+D3TzCbmXOH+LY+gj1jxC7kKncYUjsXwYDQAMNiZG
+      "], {
+       Tetrahedron[CompressedData["
+1:eJwNy0t2hSAMANAnnyjGgGhAEKJ2RT2nS+gGuv9ZHdzh/fr9+/lVn8/n+2Ve
+nLe2c0wps2yVW9w3rtKR05553/Ke0+HDs8p9PeSXtSrGdOSynbVxjSo3lphY
+R95qAjvWdnaH85LLcaeSJUu58yV3R/Fd2nX2dtV+ziUdI7cqrb8kX0BT0Gaw
+doSJVdRRDVqu7pMwlFvCoJUxVoO2CYokYKloQKGdgAw6KpBG1gmUZlBGw/1I
+mAKtyhmsTuFglMPF0ULo5bk8kvg6O+xzRUBDAiUIAlHwqwVDChgZBIUgzNj9
+vLzPU3i8BBhLgGkM/6eiFpI=
+        "]]}, 
+      Properties -> {{0, Default} -> (MeshCellStyle -> Directive[
+           PointSize[Medium], 
+           GrayLevel[0]]), {2, Default} -> (MeshCellStyle -> Opacity[0.1])}, 
+      Method -> {
+       "EliminateUnusedCoordinates" -> True, "DeleteDuplicateCoordinates" -> 
+        Automatic, "VertexAlias" -> Identity, "CheckOrientation" -> True, 
+        "CoplanarityTolerance" -> Automatic, "CheckIntersections" -> 
+        Automatic, "BoundaryNesting" -> Automatic, "SeparateBoundaries" -> 
+        False, "PropagateMarkers" -> True, "Hash" -> 3611283709540754048}]]}, 
+    
+    TagBox[GraphicsComplex3DBox[CompressedData["
+1:eJxTTMoPSmViYGBQAGJmBtxA8fD81/aH2B1gNLo4IT66OKq8uAO6OnRxmPrI
+S9s/rL+oiGE+dnFxItURtg+7v8Qx9KGqR/eXOIb9MD66PvRwwuUOYv2DLo7u
+D3TzCbmXOH+LY+gj1jxC7kKncYUjsXwYDQAMNiZG
+      "], 
+      {Hue[0.6, 0.3, 0.85], EdgeForm[Hue[0.6, 0.3, 0.75]], FaceForm[Opacity[
+       0.1]], TetrahedronBox[CompressedData["
+1:eJwNy0t2hSAMANAnnyjGgGhAEKJ2RT2nS+gGuv9ZHdzh/fr9+/lVn8/n+2Ve
+nLe2c0wps2yVW9w3rtKR05553/Ke0+HDs8p9PeSXtSrGdOSynbVxjSo3lphY
+R95qAjvWdnaH85LLcaeSJUu58yV3R/Fd2nX2dtV+ziUdI7cqrb8kX0BT0Gaw
+doSJVdRRDVqu7pMwlFvCoJUxVoO2CYokYKloQKGdgAw6KpBG1gmUZlBGw/1I
+mAKtyhmsTuFglMPF0ULo5bk8kvg6O+xzRUBDAiUIAlHwqwVDChgZBIUgzNj9
+vLzPU3i8BBhLgGkM/6eiFpI=
+        "]], 
+       {GrayLevel[0], PointSize[Medium], Point3DBox[{{1}}], Point3DBox[{{2}}],
+         Point3DBox[{{3}}], Point3DBox[{{4}}], Point3DBox[{{5}}], 
+        Point3DBox[{{6}}], Point3DBox[{{7}}], Point3DBox[{{8}}], 
+        Point3DBox[{{9}}], Point3DBox[{{10}}], Point3DBox[{{11}}], 
+        Point3DBox[{{12}}], Point3DBox[{{13}}], Point3DBox[{{14}}], 
+        Point3DBox[{{15}}], Point3DBox[{{16}}], Point3DBox[{{17}}], 
+        Point3DBox[{{18}}], Point3DBox[{{19}}], Point3DBox[{{20}}], 
+        Point3DBox[{{21}}], Point3DBox[{{22}}], Point3DBox[{{23}}], 
+        Point3DBox[{{24}}], Point3DBox[{{25}}], Point3DBox[{{26}}], 
+        Point3DBox[{{27}}], Point3DBox[{{28}}], Point3DBox[{{29}}], 
+        Point3DBox[{{30}}], Point3DBox[{{31}}], Point3DBox[{{32}}]}}],
+     MouseAppearanceTag["LinkHand"]],
+    AllowKernelInitialization->False],
+   "MeshGraphics",
+   AutoDelete->True,
+   Editable->False,
+   Selectable->False],
+  Boxed->False,
+  DefaultBaseStyle->{
+   "Graphics3D", FrontEnd`GraphicsHighlightColor -> Hue[0.1, 1, 0.7]},
+  ImageSize->{525.2072501418279, 586.},
+  Lighting->{{"Ambient", 
+     GrayLevel[0.45]}, {"Directional", 
+     GrayLevel[0.3], 
+     ImageScaled[{2, 0, 2}]}, {"Directional", 
+     GrayLevel[0.33], 
+     ImageScaled[{2, 2, 2}]}, {"Directional", 
+     GrayLevel[0.3], 
+     ImageScaled[{0, 2, 2}]}},
+  Method->{"ShrinkWrap" -> True},
+  ViewPoint->{0.6984898561494199, -0.45676653593954897`, 3.2792493428378022`},
+  
+  ViewVertical->{0.15853049648900597`, 0.7193415145806015, 
+   0.6763252672226846}]], "Output",
+ CellChangeTimes->{3.6300820859224863`*^9}]
+}, Open  ]]
+},
+WindowSize->{822, 1252},
+WindowMargins->{{Automatic, 735}, {Automatic, 0}},
+FrontEndVersion->"10.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September 9, \
+2014)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 1830, 38, 114, "Input"],
+Cell[2391, 60, 356, 8, 63, "Input"],
+Cell[CellGroupData[{
+Cell[2772, 72, 787, 24, 63, "Input"],
+Cell[3562, 98, 3540, 75, 635, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)

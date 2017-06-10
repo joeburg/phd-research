@@ -1,0 +1,10 @@
+# atoms in bond mapped to bond ID and the constant is given 
+C-C		1	26.2886
+C-H		2	20.3880
+H-C		2	20.3880
+C-N		3	17.2687 
+N-C		3	17.2687
+C-S		4	15.1874
+S-C		4	15.1874
+N-H		5	31.5322
+H-N		5	31.5322

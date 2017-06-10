@@ -1,0 +1,859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"on_delete"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"Edu",
+				"EducationalContent"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"in",
+				"instructor"
+			],
+			[
+				"unive",
+				"university_courses"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Dis",
+				"DISCIPLINE_CHOICES"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"De",
+				"DEGREE_CHOICES"
+			],
+			[
+				"univ",
+				"universities"
+			],
+			[
+				"A",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"base",
+				"base_year"
+			],
+			[
+				"pro",
+				"projected_empoloyment"
+			],
+			[
+				"addr",
+				"address_2"
+			],
+			[
+				"add",
+				"address_1"
+			],
+			[
+				"re",
+				"related_name"
+			],
+			[
+				"Equi",
+				"EquipmentRep"
+			],
+			[
+				"E",
+				"EquipRepModelChoiceField"
+			],
+			[
+				"Hos",
+				"Hospital"
+			],
+			[
+				"Ho",
+				"HospitalModelChoiceField"
+			],
+			[
+				"Pa",
+				"Patient"
+			],
+			[
+				"compl",
+				"completed_cases"
+			],
+			[
+				"e",
+				"equip_rep"
+			],
+			[
+				"all",
+				"all_hospitals"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"CC",
+				"CC_bonds"
+			],
+			[
+				"SiC",
+				"SiC_bonds"
+			],
+			[
+				"wr",
+				"write_enthalpy"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"des",
+				"description_link"
+			],
+			[
+				"pay",
+				"payment_summary_link"
+			],
+			[
+				"pur",
+				"purchase_summary_link"
+			],
+			[
+				"Ch",
+				"CheckLibraries"
+			],
+			[
+				"C",
+				"Catetory"
+			],
+			[
+				"tras",
+				"transdate"
+			],
+			[
+				"cred",
+				"credit_data_link"
+			],
+			[
+				"LoadC",
+				"LoadCreditData"
+			],
+			[
+				"credit_",
+				"credit_data"
+			],
+			[
+				"checking",
+				"checking_data_link"
+			],
+			[
+				"Load",
+				"LoadCheckingData"
+			],
+			[
+				"Lo",
+				"LoadDescriptionsLibrary"
+			],
+			[
+				"cate",
+				"category_link"
+			],
+			[
+				"phe",
+				"phenome"
+			],
+			[
+				"hist",
+				"histfiles"
+			],
+			[
+				"cut",
+				"cutoff_OC"
+			],
+			[
+				"term",
+				"terminalO"
+			],
+			[
+				"ter",
+				"terminalO"
+			],
+			[
+				"cluster",
+				"clustercutoff"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ster",
+				"stericbonds_max"
+			],
+			[
+				"steric",
+				"stericbonds_max"
+			],
+			[
+				"stericbond",
+				"stericbonds_min"
+			],
+			[
+				"GetSter",
+				"GetStericBridgesPorosity"
+			],
+			[
+				"degreeStiffening_min",
+				"degreeStiffening_min1"
+			],
+			[
+				"degree",
+				"degreeStiffening"
+			],
+			[
+				"clust",
+				"clusterstats"
+			],
+			[
+				"isolat",
+				"isolated_terminalO"
+			],
+			[
+				"poresurf",
+				"poresurface"
+			],
+			[
+				"poresr",
+				"poresurface"
+			],
+			[
+				"poresur",
+				"poresurface"
+			],
+			[
+				"j",
+				"j-NSi"
+			],
+			[
+				"porog",
+				"porogenAtoms"
+			],
+			[
+				"inputfi",
+				"inputfiles"
+			],
+			[
+				"terminal",
+				"terminalO_clusters"
+			],
+			[
+				"input",
+				"inputfiles"
+			],
+			[
+				"freque",
+				"frequency"
+			],
+			[
+				"frequen",
+				"frequencies"
+			],
+			[
+				"sort",
+				"sorted_words"
+			],
+			[
+				"loa",
+				"load_TC_text"
+			],
+			[
+				"load",
+				"load_filtered_words"
+			],
+			[
+				"with",
+				"with"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"N_PP",
+				"N_PP40"
+			],
+			[
+				"N_",
+				"N_OCSEtMe"
+			],
+			[
+				"N_O",
+				"N_OCSEt"
+			],
+			[
+				"L",
+				"LAMMPSbondData"
+			],
+			[
+				"pore",
+				"poreBonddata"
+			],
+			[
+				"Writ",
+				"WriteBondFile"
+			],
+			[
+				"Wri",
+				"WriteAtomFile"
+			],
+			[
+				"Tr",
+				"TranslateBondDataN"
+			],
+			[
+				"Translate",
+				"TranslateBondData0"
+			],
+			[
+				"LAMM",
+				"LAMMPSatomData"
+			],
+			[
+				"PA",
+				"PA"
+			],
+			[
+				"inter",
+				"internet_TV"
+			],
+			[
+				"int",
+				"internet_TV"
+			],
+			[
+				"o",
+				"open"
+			],
+			[
+				"clr",
+				"clr"
+			],
+			[
+				"Ep",
+				"Ep"
+			],
+			[
+				"Ly",
+				"Ly"
+			],
+			[
+				"log",
+				"logfile"
+			],
+			[
+				"mSi_",
+				"mSi_OCSMe"
+			],
+			[
+				"connec",
+				"connectivity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 4230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "createSimulation.py",
+			"settings":
+			{
+				"buffer_size": 11244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generateDataFiles.py",
+			"settings":
+			{
+				"buffer_size": 27171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "StructureAnalysisFuctions.py",
+			"settings":
+			{
+				"buffer_size": 12533,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generateInputFiles.py",
+			"settings":
+			{
+				"buffer_size": 11006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.py",
+			"settings":
+			{
+				"buffer_size": 6160,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joeburg/Box Sync/Dauskardt_Group/Molcular_Modeling_Research/Data_Analysis_Programs/LAMMPS_simulation_starter/SiOC_model_starter/SiOC_Starter.sublime-project",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/educations/degrees_disciplines.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/requirements/base.txt",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/config/settings/common.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/cases/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/locations/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/cases/tests.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/scratch_code.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/apps.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/urls.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/views.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/templates/scratch_code.html",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/templates/users/user_form.html",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/.env",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/common.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/production.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/local.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/migrations/0001_initial.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/requirements/base.txt",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/logout.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_closed.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_confirm.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_change_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/login.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/landing_page/navbar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/top_nav.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/accounts/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/base.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_email.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_done.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_change_done.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activation_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activate.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activation_email_subject.txt",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/landing_page/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/landing_page/admin.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/head.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/hospitals/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_patient.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_case.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_participant_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_information_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/javascript.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patient_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_scheduler.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_physician.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_hospital.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_equipment_rep.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/moment.min.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physician_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/insurance_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/jquery.tagsinput.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patients.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/schedulers.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physicians.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_reps.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/hospitals.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_history.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/active_cases.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/base.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/sidebar_nav.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/daterangepicker.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/css/custom.min.css",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/scheduler_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_rep_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/scheduler_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/hospital_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physician_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/insurance_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/personal_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/medical_titles.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patient_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_reps_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/hospitals/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equip_rep_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/css/green.css",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/health_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/custom.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/states.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/manage.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/project/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/vfs_fonts.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/responsive.bootstrap.min.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/project/__init__.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/case_history.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/patients_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/case_history_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/schedulers_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/physicians_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/new_case_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/hospitals_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/equip_reps_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/dashboard_sidebar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/patients.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/schedulers.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/physicians.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/Stonsh/urls.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/dashboard/admin.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/landing_page/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/equip_reps.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/base.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/hospitals.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/new_case.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/landing_page/admin.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/dashboard/dashboard.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/landing_page/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/Stonsh/src/templates/javascript.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"])\n",
+			"data_P",
+			"Natoms",
+			"print",
+			"self.CM",
+			"plt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pylab"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 4230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4061,
+								4068
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "createSimulation.py",
+					"settings":
+					{
+						"buffer_size": 11244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6786,
+								6793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "generateDataFiles.py",
+					"settings":
+					{
+						"buffer_size": 27171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10834,
+								10605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8103.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "StructureAnalysisFuctions.py",
+					"settings":
+					{
+						"buffer_size": 12533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3104,
+								3117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "generateInputFiles.py",
+					"settings":
+					{
+						"buffer_size": 11006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9675,
+								9682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "utils.py",
+					"settings":
+					{
+						"buffer_size": 6160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4959,
+								4959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}

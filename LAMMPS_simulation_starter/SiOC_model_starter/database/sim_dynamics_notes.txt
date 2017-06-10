@@ -1,0 +1,114 @@
+EtOCS:
+soft potential 
+nvt 6000 6000 .01
+run 20000
+
+simulated annealing 1
+npt 12000 6000 .01 xyz 90000 60000 .1
+run	10000
+
+simulated annealing 2
+npt 6000 300 .01 xyz 60000 1 .1
+run 100000
+
+bulk modulus
+npt 300 300 0.01 xyz 5000 5000 .1 drag 2 
+[5000, 2500, 1500, 1000, 500, 0 -500, -1000, -1500, -2500, -5000]
+
+
+
+EtOCSMe:
+soft potential 
+nvt 6000 6000 .01 drag 2 
+run	20000
+
+simulated annealing 1
+npt 12000 6000 0.01 xyz 90000 60000 .1 drag 2
+run	10000
+
+simulated annealing 2
+npt 6000 300 0.01 xyz 60000 1 .1 drag 2
+run 100000
+
+bulk modulus
+npt 300 300 0.01 xyz 5000 5000 .1 drag 2
+[5000, 2500, 1500, 1000, 500, 0 -500, -1000, -1500, -2500, -5000]
+
+
+1,3,5-Benzene
+soft potential
+nvt 1000 1000 .01 drag 2
+run	10000
+
+simulated annealing 1
+npt 6000 3000 .01 xyz 90000 60000 .1 drag 2
+run	100000
+
+simulated annealing 2
+npt 3000 300 .01 xyz 60000 1 .1 drag 2
+run 50000
+
+bulk modulus
+npt 300 300 .01 xyz 5000 5000 .1 drag 2
+[5000, 2500, 1500, 1000, 500, 0 -500, -1000, -1500, -2500, -5000]
+
+
+type1 simulation dynamics
+soft_potential : { Tstart : 6000,
+					Tstop : 6000, 
+					Tdamp : 0.01,
+					drag  : 2}
+sim_anneal_1 : {Tstart : 12000, 
+				Tstop  : 6000,
+				Tdamp  : 0.01,
+				Pstart : 90000,
+				Pstop  : 60000,
+				Pdamp  : 0.1,
+				drag   : 2}
+sim_anneal_2 : {Tstart : 6000, 
+				Tstop  : 300,
+				Tdamp  : 0.01,
+				Pstart : 60000,
+				Pstop  : 1,
+				Pdamp  : 0.1,
+				drag   : 2}
+bulk_modulus : {Tstart : 300, 
+				Tstop  : 300,
+				Tdamp  : 0.01,
+				Plist : [5000, 2500, 1500, 1000, 500, 0 -500, -1000, -1500, -2500, -5000],
+				Pdamp  : 0.1,
+				drag   : 2}
+				
+				
+type2 simulation dynamics
+soft_potential : { Tstart : 1000,
+					Tstop : 1000, 
+					Tdamp : 0.01,
+					drag  : 2}
+sim_anneal_1 : {Tstart : 6000, 
+				Tstop  : 3000,
+				Tdamp  : 0.01,
+				Pstart : 90000,
+				Pstop  : 60000,
+				Pdamp  : 0.1,
+				drag   : 2}
+sim_anneal_2 : {Tstart : 3000, 
+				Tstop  : 300,
+				Tdamp  : 0.01,
+				Pstart : 60000,
+				Pstop  : 1,
+				Pdamp  : 0.1,
+				drag   : 2}
+bulk_modulus : {Tstart : 300, 
+				Tstop  : 300,
+				Tdamp  : 0.01,
+				Plist : [5000, 2500, 1500, 1000, 500, 0 -500, -1000, -1500, -2500, -5000],
+				Pdamp  : 0.1,
+				drag   : 2}
+
+
+nvt:
+fix ID group-ID nvt Tstart Tstop Tdamp drag value
+
+npt:
+fix ID group-ID npt Tstart Tstop Tdamp xyz Pstart Pstop Pdamp drag value

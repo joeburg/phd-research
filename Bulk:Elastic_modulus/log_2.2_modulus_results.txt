@@ -1,0 +1,7 @@
+# modulus results
+# Poisson Ratio: 0.2500
+
+Bulk modulus (compression) = 1.4161 GPa
+Bulk modulus (tension) = 0.9040 GPa
+Elastic modulus (compression) = 2.1241 GPa
+Elastic modulus (tension) = 1.3560 GPa

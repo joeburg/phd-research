@@ -1,0 +1,75 @@
+
+dimension 3
+atom_style full
+bond_style harmonic
+angle_style harmonic
+dihedral_style opls
+
+boundary p p p
+units metal
+neighbor 2 bin
+neigh_modify check yes
+
+timestep 0.001
+
+read_data data.EtOCSVinyl_C-Si-C=C_$a_deg
+read_data data.EtOCSVinyl_C-Si-C=C_30_deg
+  1 = max bonds/atom
+  1 = max angles/atom
+  1 = max dihedrals/atom
+  orthogonal box = (-6 -5 -5) to (6 5 5)
+  1 by 1 by 1 processor grid
+  4 atoms
+  3 bonds
+  2 angles
+  1 dihedrals
+  2 = max # of 1-2 neighbors
+  1 = max # of 1-3 neighbors
+  2 = max # of 1-4 neighbors
+  3 = max # of special neighbors
+
+pair_style sw
+pair_coeff * * OCS.sw Si O C
+
+thermo_style custom step temp tave press pave lx ly lz vol epair ke pe etotal
+thermo 1
+minimize 1e-4 0 0
+Memory usage per processor = 2.63335 Mbytes
+Step Temp T_ave Press P_ave Lx Ly Lz Volume E_pair KinEng PotEng TotEng 
+       0            0            0    306.87492    306.87492           12           10           10         1200            0            0 0.0016156171 0.0016156171 
+Loop time of 0 on 1 procs for 0 steps with 4 atoms
+
+Minimization stats:
+  E initial, next-to-last, final = 0.00161562 0 0.00161562
+  Gradient 2-norm init/final= 0.507122 0.507122
+  Gradient inf-norm init/final= 0.34954 0.34954
+  Iterations = 0
+  Force evaluations = 0
+
+Pair  time (%) = 0 (0)
+Bond  time (%) = 0 (0)
+Neigh time (%) = 0 (0)
+Comm  time (%) = 0 (0)
+Outpt time (%) = 0 (0)
+Other time (%) = 0 (0)
+
+Nlocal:    4 ave 4 max 4 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    77 ave 77 max 77 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 0
+Ave neighs/atom = 0
+Ave special neighs/atom = 3
+Neighbor list builds = 0
+Dangerous builds = 0
+
+clear
+next a
+jump in.EtOCSVinyl_C-Si-C=C# Computes point energy of torsion scans from Gaussian
+
+variable a index 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 
+log log_$a.lammps
+log log_40.lammps

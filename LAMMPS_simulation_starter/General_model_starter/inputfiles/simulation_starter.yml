@@ -1,0 +1,24 @@
+# name the simulation directory 
+sim_dir : trial36
+# name the precursor structure  
+mol_name : 4ATP_NH3+_S-
+# name the free atom 
+atom_name : Cu2+
+# give the free atom ID 
+free_atom_ID : 10
+# give the number of precursors 
+Nprecursors : 30000
+# give the number of free atoms 
+NfreeAtoms : 45000
+# give the name of the atom position file for the precursor  
+atomfile : 4ATP_NH3+_S-.xyz
+# give the name of the atom-types file 
+atomTypesFile : 4ATP_NH3+_S-_Cu2+_atomTypes.txt
+# give the name of the bond-types file 
+bondTypesFile : 4ATP_NH3+_S-_bondTypes.txt
+# give the name of the angle-types file 
+angleTypesFile : 4ATP_NH3+_S-_angleTypes.txt
+# give the name of the dihedral-types file 
+dihedralTypesFile : 4ATP_NH3+_S-_dihedralTypes.txt
+# give the file for the pair-wise potential parameters
+pairPotentialFile : CHARMM_Cu2+(Babu2005)_LAMMPS.txt

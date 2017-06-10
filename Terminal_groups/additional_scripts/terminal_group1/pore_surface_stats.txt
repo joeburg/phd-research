@@ -1,0 +1,135 @@
+
+
+Trial 1.1:
+Cutoff = 5.0000
+Number of terminal OH = 635
+Number of terminal groups = 2018
+Number of terminal OH on pore surface = 108
+Number of terminal groups on pore surface = 501
+Fraction terminal groups on pore surface = 0.229551
+
+
+Trial 1.2:
+Cutoff = 5.0000
+Number of terminal OH = 656
+Number of terminal groups = 2021
+Number of terminal OH on pore surface = 115
+Number of terminal groups on pore surface = 500
+Fraction terminal groups on pore surface = 0.229735
+
+
+Trial 1.3:
+Cutoff = 5.0000
+Number of terminal OH = 638
+Number of terminal groups = 2023
+Number of terminal OH on pore surface = 122
+Number of terminal groups on pore surface = 492
+Fraction terminal groups on pore surface = 0.230740
+
+
+Trial 2.1:
+Cutoff = 5.0000
+Number of terminal OH = 648
+Number of terminal groups = 2066
+Number of terminal OH on pore surface = 288
+Number of terminal groups on pore surface = 1094
+Fraction terminal groups on pore surface = 0.509211
+
+
+Trial 2.2:
+Cutoff = 5.0000
+Number of terminal OH = 661
+Number of terminal groups = 2065
+Number of terminal OH on pore surface = 279
+Number of terminal groups on pore surface = 1098
+Fraction terminal groups on pore surface = 0.505136
+
+
+Trial 2.3:
+Cutoff = 5.0000
+Number of terminal OH = 653
+Number of terminal groups = 2070
+Number of terminal OH on pore surface = 276
+Number of terminal groups on pore surface = 1114
+Fraction terminal groups on pore surface = 0.510466
+
+
+Trial 3.1:
+Cutoff = 5.0000
+Number of terminal OH = 670
+Number of terminal groups = 2115
+Number of terminal OH on pore surface = 391
+Number of terminal groups on pore surface = 1471
+Fraction terminal groups on pore surface = 0.668582
+
+
+Trial 3.2:
+Cutoff = 5.0000
+Number of terminal OH = 649
+Number of terminal groups = 2122
+Number of terminal OH on pore surface = 369
+Number of terminal groups on pore surface = 1404
+Fraction terminal groups on pore surface = 0.639841
+
+
+Trial 3.3:
+Cutoff = 5.0000
+Number of terminal OH = 675
+Number of terminal groups = 2124
+Number of terminal OH on pore surface = 405
+Number of terminal groups on pore surface = 1478
+Fraction terminal groups on pore surface = 0.672740
+
+
+Trial 4.1:
+Cutoff = 5.0000
+Number of terminal OH = 692
+Number of terminal groups = 2182
+Number of terminal OH on pore surface = 438
+Number of terminal groups on pore surface = 1654
+Fraction terminal groups on pore surface = 0.727905
+
+
+Trial 4.2:
+Cutoff = 5.0000
+Number of terminal OH = 682
+Number of terminal groups = 2179
+Number of terminal OH on pore surface = 461
+Number of terminal groups on pore surface = 1672
+Fraction terminal groups on pore surface = 0.745544
+
+
+Trial 4.3:
+Cutoff = 5.0000
+Number of terminal OH = 667
+Number of terminal groups = 2181
+Number of terminal OH on pore surface = 455
+Number of terminal groups on pore surface = 1770
+Fraction terminal groups on pore surface = 0.781250
+
+
+Trial 5.1:
+Cutoff = 5.0000
+Number of terminal OH = 689
+Number of terminal groups = 2262
+Number of terminal OH on pore surface = 495
+Number of terminal groups on pore surface = 1897
+Fraction terminal groups on pore surface = 0.810573
+
+
+Trial 5.2:
+Cutoff = 5.0000
+Number of terminal OH = 684
+Number of terminal groups = 2266
+Number of terminal OH on pore surface = 499
+Number of terminal groups on pore surface = 1938
+Fraction terminal groups on pore surface = 0.826102
+
+
+Trial 5.3:
+Cutoff = 5.0000
+Number of terminal OH = 694
+Number of terminal groups = 2260
+Number of terminal OH on pore surface = 465
+Number of terminal groups on pore surface = 1851
+Fraction terminal groups on pore surface = 0.784022

@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"term",
+				"terminal_atom"
+			],
+			[
+				"por",
+				"poresurface"
+			],
+			[
+				"poro",
+				"porogenAtoms"
+			],
+			[
+				"pro",
+				"porogenAtoms"
+			],
+			[
+				"pore",
+				"porefile"
+			],
+			[
+				"N",
+				"N_termGroups"
+			],
+			[
+				"N_ter",
+				"N_termOH"
+			],
+			[
+				"N_term",
+				"N_termOH_on_surface"
+			],
+			[
+				"terminal",
+				"terminal_atom"
+			],
+			[
+				"Aver",
+				"AveragePosition"
+			],
+			[
+				"cs",
+				"csrfmiddlewaretoken"
+			],
+			[
+				"find",
+				"findContactBlock"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"con",
+				"contact-block"
+			],
+			[
+				"scro",
+				"scrollToSection"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"skill",
+				"skillListDiv"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"r",
+				"re-normalize"
+			],
+			[
+				"sum",
+				"sum_rankings"
+			],
+			[
+				"SkillU",
+				"SkillUserJobProfileCorrelation"
+			],
+			[
+				"totl",
+				"total_compensation"
+			],
+			[
+				"curr",
+				"current_job"
+			],
+			[
+				"salary",
+				"salary_increase"
+			],
+			[
+				"similar",
+				"similar_skills"
+			],
+			[
+				"siilar",
+				"similar_skills"
+			],
+			[
+				"simil",
+				"similar_skills"
+			],
+			[
+				"skill_job",
+				"skill_job_profile_proficiency"
+			],
+			[
+				"skill_user",
+				"skill_user_proficiency"
+			],
+			[
+				"job",
+				"job_profile"
+			],
+			[
+				"job_",
+				"job_profiles"
+			],
+			[
+				"Car",
+				"CareerMap"
+			],
+			[
+				"cer",
+				"career_map"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"career",
+				"careermap"
+			],
+			[
+				"send",
+				"sender"
+			],
+			[
+				"edge",
+				"edge_connections"
+			],
+			[
+				"bust",
+				"bust_cache"
+			],
+			[
+				"connec",
+				"connection"
+			],
+			[
+				"conn",
+				"Connection"
+			],
+			[
+				"com",
+				"compute_correlation"
+			],
+			[
+				"Edge",
+				"EdgeConnection"
+			],
+			[
+				"caree",
+				"career_map"
+			],
+			[
+				"rele",
+				"relevant_connections"
+			],
+			[
+				"node",
+				"node_start"
+			],
+			[
+				"compute",
+				"compute_job_attainment_probability"
+			],
+			[
+				"get_",
+				"get_connections_correlation"
+			],
+			[
+				"conne",
+				"connections_correlation"
+			],
+			[
+				"cour",
+				"courses"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"order",
+				"ordering"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"Al",
+				"AlreadyExistsError"
+			],
+			[
+				"loc",
+				"locations"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"LocationJ",
+				"LocationJobProfileManager"
+			],
+			[
+				"add",
+				"address_2"
+			],
+			[
+				"jobs",
+				"jobs_user"
+			],
+			[
+				"update",
+				"update_skill"
+			],
+			[
+				"en",
+				"endorsement"
+			],
+			[
+				"En",
+				"EndorsementManager"
+			],
+			[
+				"SkillPro",
+				"SkillJobProfileManager"
+			],
+			[
+				"relate",
+				"related_name"
+			],
+			[
+				"job_pro",
+				"job_profiles_wrt_user"
+			],
+			[
+				"job_profil",
+				"job_profile"
+			],
+			[
+				"job_profile_wrt_",
+				"job_profiles_wrt_job"
+			],
+			[
+				"job_profiles_w",
+				"job_profiles_wrt_user_and_job"
+			],
+			[
+				"job_profile",
+				"job_profiles"
+			],
+			[
+				"JobPro",
+				"JobProfileCorrelation"
+			],
+			[
+				"jo_",
+				"job_profiles"
+			],
+			[
+				"Corr",
+				"CorrelationHistory"
+			],
+			[
+				"job_pr",
+				"job_profile_correlation"
+			],
+			[
+				"JobProfileCo",
+				"JobProfileCorrelationManager"
+			],
+			[
+				"unrej",
+				"unrejected_request_count"
+			],
+			[
+				"reje",
+				"rejected_requests"
+			],
+			[
+				"unread_re",
+				"unread_request_count"
+			],
+			[
+				"from",
+				"from_user"
+			],
+			[
+				"Conn",
+				"ConnectionRequest"
+			],
+			[
+				"rel",
+				"relevant_connections"
+			],
+			[
+				"prob",
+				"probability"
+			],
+			[
+				"car",
+				"career_map"
+			],
+			[
+				"Path",
+				"PathwayModel"
+			],
+			[
+				"Pa",
+				"PathwayModel"
+			],
+			[
+				"de",
+				"decimal_places"
+			],
+			[
+				"ma",
+				"max_digits"
+			],
+			[
+				"al",
+				"alternate_title"
+			],
+			[
+				"Job",
+				"JobProfile"
+			],
+			[
+				"on",
+				"on_delete"
+			],
+			[
+				"Edu",
+				"EducationalContent"
+			],
+			[
+				"in",
+				"instructor"
+			],
+			[
+				"unive",
+				"university_courses"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Dis",
+				"DISCIPLINE_CHOICES"
+			],
+			[
+				"De",
+				"DEGREE_CHOICES"
+			],
+			[
+				"univ",
+				"universities"
+			],
+			[
+				"A",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"base",
+				"base_year"
+			],
+			[
+				"addr",
+				"address_2"
+			],
+			[
+				"Equi",
+				"EquipmentRep"
+			],
+			[
+				"E",
+				"EquipRepModelChoiceField"
+			],
+			[
+				"Hos",
+				"Hospital"
+			],
+			[
+				"Ho",
+				"HospitalModelChoiceField"
+			],
+			[
+				"compl",
+				"completed_cases"
+			],
+			[
+				"e",
+				"equip_rep"
+			],
+			[
+				"all",
+				"all_hospitals"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"CC",
+				"CC_bonds"
+			],
+			[
+				"SiC",
+				"SiC_bonds"
+			],
+			[
+				"wr",
+				"write_enthalpy"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"des",
+				"description_link"
+			],
+			[
+				"pay",
+				"payment_summary_link"
+			],
+			[
+				"pur",
+				"purchase_summary_link"
+			],
+			[
+				"Ch",
+				"CheckLibraries"
+			],
+			[
+				"C",
+				"Catetory"
+			],
+			[
+				"tras",
+				"transdate"
+			],
+			[
+				"cred",
+				"credit_data_link"
+			],
+			[
+				"LoadC",
+				"LoadCreditData"
+			],
+			[
+				"credit_",
+				"credit_data"
+			],
+			[
+				"checking",
+				"checking_data_link"
+			],
+			[
+				"Load",
+				"LoadCheckingData"
+			],
+			[
+				"Lo",
+				"LoadDescriptionsLibrary"
+			],
+			[
+				"cate",
+				"category_link"
+			],
+			[
+				"phe",
+				"phenome"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "unique_data.py",
+			"settings":
+			{
+				"buffer_size": 1493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "StiffeningAnalysis.py",
+			"settings":
+			{
+				"buffer_size": 3859,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import glob\nimport sys\nimport time\n\n#-----------------------------------------------------------------------------------#\n#-----------------------------------------------------------------------------------#\n#-----------------------------------------------------------------------------------#\ndef LoadClusterHistogram(inputfile):\n	f = open(inputfile)\n\n	data = []\n	while True:\n		fields = f.readline().strip().split(',')\n		if len(fields)>1: \n			nAtomsInCluster = float(fields[0])\n			nClusters = float(fields[1])\n			data.append((nAtomsInCluster, nClusters))\n		else:\n			break\n	return data\n\n\n#-----------------------------------------------------------------------------------#\n#-----------------------------------------------------------------------------------#\n#-----------------------------------------------------------------------------------#\n\nif len(sys.argv) < 2:\n	print 'Usage:'\n	print '  python %s <precursor type> [OH - False]' %sys.argv[0]\n	exit()\n\nmoltype = sys.argv[1]\n\nif len(sys.argv) > 2: \n	OHGroups = True\nelse:\n	OHGroups = False\n\nt0 = time.time()\n		\n# get all the relevant files and process each network\ninputfiles = glob.glob('{}_*.txt'.format(moltype))\n\n# write all the results to the same file\nf = open('steric_interactions.txt', 'w')\nf.write('Filename : gamma_min, gamma_max\\n')\n\nfor inputfile in inputfiles:\n\n	print 'Working with %s...' %inputfile\n	\n	data = LoadClusterHistogram(inputfile)\n\n	if OHGroups:\n		gamma_min, gamma_max = ComputeStiffeningOH(data)\n	else:\n		gamma_min, gamma_max = ComputeStiffening(data, moltype)\n\n	f.write('%s : %.4f, %.4f\\n' %(inputfile, gamma_min, gamma_max))\n\nf.close()\n\nprint 'Analyzed network in %.4f seconds.' %(time.time()-t0) ",
+			"file": "steric_analysis.py",
+			"file_size": 1389,
+			"file_write_time": 1488941215000000,
+			"settings":
+			{
+				"buffer_size": 1680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "matrixStiffening.py",
+			"settings":
+			{
+				"buffer_size": 3535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clustering.py",
+			"settings":
+			{
+				"buffer_size": 10475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "terminalGroups.py",
+			"settings":
+			{
+				"buffer_size": 21603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 2030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "poreSurface.py",
+			"settings":
+			{
+				"buffer_size": 4479,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/templates/403_csrf.html",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/templates/newsletter/signup_confirmation.html",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/careermaps/admin.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/static/plugins/jqBootstrapValidation.js",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/static/plugins/contact_me.js",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/static/js/project.js",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/config/urls.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/config/settings/production.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/config/settings/common.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/social/admin.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/social/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/skills/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/skills/admin.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/locations/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/locations/admin.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/jobs/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/jobs/admin.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/careermaps/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/courses/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/users/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/actions/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/core/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/educations/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/careermaps/signals.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/social/signals.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/careermaps/exceptions.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/social/exceptions.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/courses/signals.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/courses/exceptions.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/jobs/signals.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/jobs/exceptions.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/skills/signals.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/skills/exceptions.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/careerpaths/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/careeredx/educations/degrees_disciplines.py",
+		"/Users/joeburg/Documents/DjangoProjects/CareerEdX/careeredx/requirements/base.txt",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/cases/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/locations/models.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/cases/tests.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/scratch_code.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/apps.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/urls.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/views.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/templates/scratch_code.html",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/templates/users/user_form.html",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/.env",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/common.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/production.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/config/settings/local.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/surgeryscheduler/users/migrations/0001_initial.py",
+		"/Users/joeburg/Documents/DjangoProjects/surgeryscheduler/surgeryscheduler/requirements/base.txt",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/logout.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/registration_closed.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_confirm.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_change_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/login.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/landing_page/navbar.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/top_nav.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/accounts/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/base.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_email.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_done.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_reset_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/password_change_done.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activation_complete.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activate.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/registration/activation_email_subject.txt",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/landing_page/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/landing_page/admin.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/head.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/hospitals/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/models.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_patient.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_case.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_participant_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_information_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/javascript.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patient_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_scheduler.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_physician.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_hospital.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/add_equipment_rep.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/moment.min.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physician_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/patients/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/insurance_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/jquery.tagsinput.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/cases/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patients.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_form.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/schedulers.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physicians.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_reps.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/hospitals.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/case_history.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/active_cases.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/base.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/sidebar_nav.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/js/daterangepicker.js",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/css/custom.min.css",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/scheduler_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_rep_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/schedulers/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/scheduler_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/hospital_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/physician_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/insurance_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/personal_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/medical_titles.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/physicians/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/patient_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equipment_reps_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/equipment_reps/views.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/apps/hospitals/forms.py",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/templates/dashboard/equip_rep_info.html",
+		"/Users/joeburg/Dropbox/Virtual_enviornment/healthcare/src/static_dev/css/green.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"templates",
+			"EndorsementRequests",
+			"btn",
+			"])\n",
+			"data_P",
+			"Natoms",
+			"print",
+			"self.CM",
+			"plt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EndorsementRequest",
+			"pylab"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "unique_data.py",
+					"settings":
+					{
+						"buffer_size": 1493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "StiffeningAnalysis.py",
+					"settings":
+					{
+						"buffer_size": 3859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2738,
+								2738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1014.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "steric_analysis.py",
+					"settings":
+					{
+						"buffer_size": 1680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "matrixStiffening.py",
+					"settings":
+					{
+						"buffer_size": 3535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1698,
+								1698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "clustering.py",
+					"settings":
+					{
+						"buffer_size": 10475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6636,
+								6642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "terminalGroups.py",
+					"settings":
+					{
+						"buffer_size": 21603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20099,
+								20108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11691.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "poreSurface.py",
+					"settings":
+					{
+						"buffer_size": 4479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3441,
+								3441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,6 @@
+1)use LAMMPS_to_voro.py to convert files voro++ format 
+	- this includes the BCs file
+	
+2) use ./main to compute the voronoi network and simplicies
+
+3) use AnalyzeVoronoi.py to compute statistics and plots

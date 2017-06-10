@@ -1,0 +1,90 @@
+
+ voro_data_out/OCSEt_155000_voro.vol 
+Si Vol / V0 = 0.4349
+O Vol / V0 = 0.2519
+C Vol / V0 = 0.2840
+Total Vol / V0 = 0.9707
+
+ voro_data_out/OCSEt_255000_voro.vol 
+Si Vol / V0 = 0.4396
+O Vol / V0 = 0.2665
+C Vol / V0 = 0.2940
+Total Vol / V0 = 1.0000
+
+ voro_data_out/OCSEt_355000_voro.vol 
+Si Vol / V0 = 0.4507
+O Vol / V0 = 0.2966
+C Vol / V0 = 0.3168
+Total Vol / V0 = 1.0641
+
+ voro_data_out/OCSEt_155000_voro.vol 
+Si Vol / V0 = 0.4349
+O Vol / V0 = 0.2519
+C Vol / V0 = 0.2840
+Total Vol / V0 = 0.9707
+
+ voro_data_out/OCSEt_255000_voro.vol 
+Si Vol / V0 = 0.4396
+O Vol / V0 = 0.2665
+C Vol / V0 = 0.2940
+Total Vol / V0 = 1.0000
+
+ voro_data_out/OCSEt_355000_voro.vol 
+Si Vol / V0 = 0.4507
+O Vol / V0 = 0.2966
+C Vol / V0 = 0.3168
+Total Vol / V0 = 1.0641
+
+ voro_data_out/OCSEt_155000_voro.vol 
+Si Vol / V0 = 0.4349
+O Vol / V0 = 0.2519
+C Vol / V0 = 0.2840
+Total Vol / V0 = 0.9707
+
+ voro_data_out/OCSEt_255000_voro.vol 
+Si Vol / V0 = 0.4396
+O Vol / V0 = 0.2665
+C Vol / V0 = 0.2940
+Total Vol / V0 = 1.0000
+
+ voro_data_out/OCSEt_355000_voro.vol 
+Si Vol / V0 = 0.4507
+O Vol / V0 = 0.2966
+C Vol / V0 = 0.3168
+Total Vol / V0 = 1.0641
+
+ voro_data_out/OCSEt_155000_voro.vol 
+Si Vol / V0 = 0.4349
+O Vol / V0 = 0.2519
+C Vol / V0 = 0.2840
+Total Vol / V0 = 0.9707
+
+ voro_data_out/OCSEt_255000_voro.vol 
+Si Vol / V0 = 0.4396
+O Vol / V0 = 0.2665
+C Vol / V0 = 0.2940
+Total Vol / V0 = 1.0000
+
+ voro_data_out/OCSEt_355000_voro.vol 
+Si Vol / V0 = 0.4507
+O Vol / V0 = 0.2966
+C Vol / V0 = 0.3168
+Total Vol / V0 = 1.0641
+
+ voro_data_out/OCSEt_155000_voro.vol 
+Si Vol / V0 = 0.4349
+O Vol / V0 = 0.2519
+C Vol / V0 = 0.2840
+Total Vol / V0 = 0.9707
+
+ voro_data_out/OCSEt_255000_voro.vol 
+Si Vol / V0 = 0.4396
+O Vol / V0 = 0.2665
+C Vol / V0 = 0.2940
+Total Vol / V0 = 1.0000
+
+ voro_data_out/OCSEt_355000_voro.vol 
+Si Vol / V0 = 0.4507
+O Vol / V0 = 0.2966
+C Vol / V0 = 0.3168
+Total Vol / V0 = 1.0641

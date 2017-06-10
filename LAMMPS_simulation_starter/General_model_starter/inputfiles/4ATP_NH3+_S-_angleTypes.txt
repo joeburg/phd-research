@@ -1,0 +1,11 @@
+# atoms in angle mapped to angle ID 
+C-C-C	1	2.821
+H-C-C	2	1.102
+C-C-H	2	1.102
+H-N-C	3	0.7127
+C-N-H	3	0.7127
+H-N-H	4	0.8347
+N-C-C	5	1.871
+C-C-N	5	1.871
+S-C-C	6	1.411
+C-C-S	6	1.411
